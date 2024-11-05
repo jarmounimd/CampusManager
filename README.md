@@ -23,7 +23,7 @@
 
  - Menu Options:
 
-**Administrator**: Add, modify, delete rooms, and manage reservations.
-**Professor**: View available rooms and book them for classes or labs.
-**Student**: Book rooms for club activities and view existing reservations.
-**Check Room Availability**: View a comprehensive schedule of all bookings.
+ - **Administrator**: Add, modify, delete rooms, and manage reservations.
+ - **Professor**: View available rooms and book them for classes or labs.
+ - **Student**: Book rooms for club activities and view existing reservations.
+ - **Check Room Availability**: View a comprehensive schedule of all bookings.
