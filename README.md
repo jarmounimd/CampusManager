@@ -21,7 +21,7 @@
 
  - Select Role: Choose a role based on your access level (Administrator, Professor, or Student).
 
- - Menu Options:
+     Menu Options:
 
  - **Administrator**: Add, modify, delete rooms, and manage reservations.
  - **Professor**: View available rooms and book them for classes or labs.
