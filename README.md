@@ -95,3 +95,7 @@ Here are some screenshots demonstrating various features and interfaces of the *
 &nbsp;
 
 ![Screenshot 17](https://github.com/jarmounimd/CampusManager/blob/main/images/17.png?raw=true)
+
+&nbsp;
+
+![Screenshot 17](https://github.com/jarmounimd/CampusManager/blob/main/images/18.png?raw=true)
