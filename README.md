@@ -28,6 +28,70 @@
 
 ## 📸 Screenshots
 
-| Login Screen | Admin Dashboard |
-|--------------|-----------------|
-| ![Login Screen](https://github.com/jarmounimd/CampusManager/blob/main/images/1.png?raw=true) | ![Admin Dashboard](https://github.com/jarmounimd/CampusManager/blob/main/images/2.png?raw=true) |
+Here are some screenshots demonstrating various features and interfaces of the **CampusManager** project.
+
+![Screenshot 1](https://github.com/jarmounimd/CampusManager/blob/main/images/1.png?raw=true)
+
+&nbsp;
+
+![Screenshot 2](https://github.com/jarmounimd/CampusManager/blob/main/images/2.png?raw=true)
+
+&nbsp;
+
+![Screenshot 3](https://github.com/jarmounimd/CampusManager/blob/main/images/3.png?raw=true)
+
+&nbsp;
+
+![Screenshot 4](https://github.com/jarmounimd/CampusManager/blob/main/images/4.png?raw=true)
+
+&nbsp;
+
+![Screenshot 5](https://github.com/jarmounimd/CampusManager/blob/main/images/5.png?raw=true)
+
+&nbsp;
+
+![Screenshot 6](https://github.com/jarmounimd/CampusManager/blob/main/images/6.png?raw=true)
+
+&nbsp;
+
+![Screenshot 7](https://github.com/jarmounimd/CampusManager/blob/main/images/7.png?raw=true)
+
+&nbsp;
+
+![Screenshot 8](https://github.com/jarmounimd/CampusManager/blob/main/images/8.png?raw=true)
+
+&nbsp;
+
+![Screenshot 9](https://github.com/jarmounimd/CampusManager/blob/main/images/9.png?raw=true)
+
+&nbsp;
+
+![Screenshot 10](https://github.com/jarmounimd/CampusManager/blob/main/images/10.png?raw=true)
+
+&nbsp;
+
+![Screenshot 11](https://github.com/jarmounimd/CampusManager/blob/main/images/11.png?raw=true)
+
+&nbsp;
+
+![Screenshot 12](https://github.com/jarmounimd/CampusManager/blob/main/images/12.png?raw=true)
+
+&nbsp;
+
+![Screenshot 13](https://github.com/jarmounimd/CampusManager/blob/main/images/13.png?raw=true)
+
+&nbsp;
+
+![Screenshot 14](https://github.com/jarmounimd/CampusManager/blob/main/images/14.png?raw=true)
+
+&nbsp;
+
+![Screenshot 15](https://github.com/jarmounimd/CampusManager/blob/main/images/15.png?raw=true)
+
+&nbsp;
+
+![Screenshot 16](https://github.com/jarmounimd/CampusManager/blob/main/images/16.png?raw=true)
+
+&nbsp;
+
+![Screenshot 17](https://github.com/jarmounimd/CampusManager/blob/main/images/17.png?raw=true)
